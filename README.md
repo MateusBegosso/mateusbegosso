@@ -1,4 +1,4 @@
-## Olá, visitantes. Sejam bem vindos ao meu GitHub! 😎
+## Olá visitantes, sejam bem vindos ao meu GitHub! 😎
 
 <div align="center">
   <a href="https://github.com/MateusBegosso">
