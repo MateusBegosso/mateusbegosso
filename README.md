@@ -22,5 +22,8 @@
   
  
   ![Snake animation](https://github.com/MateusBegosso/mateusbegosso/blob/output/github-contribution-grid-snake.svg)
+  
+  <p align="center"> Quantas pessoas já viram esse perfil maravilhoso 🕵️‍♂️ </p>
+  <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/MateusBegosso/count.svg" /></p>
  
 </div>
